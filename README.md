@@ -1,5 +1,5 @@
-# React Speedrun Tools   ![GitHub commit merge status](https://img.shields.io/github/commit-status/CodeDreamer06/EloGrapher/main/7ff58a6456a2e1f45ebca96561a83f0f5ec389d6)&nbsp;  ![GitHub issues](https://img.shields.io/github/issues/CodeDreamer06/ReactSpeedrunTools)
-An extension to kickstart a react project as quickly as possible!
+# React Speedrun Tools   ![GitHub commit merge status](https://img.shields.io/github/commit-status/CodeDreamer06/ReactSpeedrunTools/main/f782a7a29ae67cc29cebb3ea943ce66227b30e8e)&nbsp;  ![GitHub issues](https://img.shields.io/github/issues/CodeDreamer06/ReactSpeedrunTools)
+An extension to help you develop your react project as quickly as possible!
 ## Motivation & Features
 As a developer who works extensively with React, I often found myself needing to perform tasks that are time consuming and repetitive. This led me to create the React Speedrun Tools extension for VS code, which includes features like removing the boilerplate code made using CRA, creating components or adding new fonts.
 ## Installation
